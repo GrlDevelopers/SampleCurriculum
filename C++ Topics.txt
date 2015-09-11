@@ -1,0 +1,114 @@
+C++ Topics
+	// [x] indicates # of days expected for each topic
+------- [1] -------
+1. History of programming
+	a. languages
+	b. computers
+		i. IDEs/compilers
+
+------- [1] -------
+2. Structure of a program
+	a. includes
+	b. namespaces
+	c. main function
+	d. syntax
+
+PROMPTS: Print custom messages, fill-in-the-blanks
+
+------- [2] -------
+3. Variables
+	a. types - intro
+		i. numbers
+		ii. characters
+		iii. strings
+		iv. booleans
+	b. using ints
+		i. addition, subtraction, div, mult
+		ii. operators, shortcuts-- ++ += +-
+		iii. assigning variables to values
+		iv. printing variables
+	c. user input
+
+PROMPTS: Printing numbers, formula calculators, text calculator
+
+------- [4] -------
+4. Loops
+	a. while loops
+		i. examples with numbers, then input
+	b. do while loops
+		i. same as before
+	c. for loops
+		i. with printing
+		ii. infinite loops
+
+PROMPTS: Count up/down, get user input, trees
+
+------- [3] -------
+5. Flow control
+	a. if/else statements
+		i. practice
+		ii. operators
+		iii. nested statements
+		iv. curly braces
+		v. shortcut : ?
+	b. switch statements
+		i. cases
+		ii. breaking
+	c. booleans
+		i. shortcut
+
+PROMPTS: Examine user input [DNA Replication], use with loops
+
+------- [2] -------
+5. Arrays
+	a. make sequences
+		i. numbers
+		ii. strings/chars
+	b. access values
+		i. manually
+		ii. loops
+	c. add values
+	d. 2d arrays
+
+PROMPTS: Print everything from an array, use loop to fill array
+
+------- [5] -------
+6. Strings
+	a. user input
+		i. getline vs cin
+	b. basic functions
+		i. size()
+		ii. empty()
+		iii. append("")
+		iv. compare()
+		v. find()
+		vi. insert()
+		vii. erase()
+		viii. replace()
+	c. cctype
+		i. isanum()
+		ii. isalpha()
+		iii. iscntrl()
+		iv. isdigit()
+		v. islower()
+		vi. ispunct()
+		vii. isspace()
+		viii. tolower()
+		ix. toupper()
+	d. C++ 11 -- range-based for
+		i. definition
+		ii. using with cctype
+		iii. using with if/else
+
+PROMPTS: Remove spaces, remove vowels, rovarspraket, name game
+
+------- [3] -------
+7. Reading and writing files
+	a. basics of files/folders
+	b. creating files
+		i. create file
+		ii. access file
+		iii. read file
+	c. writing files
+		i. user input
+		ii. read input
